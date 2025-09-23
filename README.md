@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Onde me achar
-- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/gustavo-de-rezende-garcia-835001275))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-de-rezende-garcia-835001275)  
 - 📧 Email: gustavorezende181@gmail.com
 
 ---
