@@ -16,6 +16,7 @@
 
 ### 📈 Stats
 ![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRez&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRez&layout=compact&theme=radical)
 
 ---
 
