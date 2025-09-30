@@ -22,7 +22,7 @@
 
 ### 🌱 O que tô estudando agora
 - Java + Spring Boot ☕
-- CSS Avançado (pseudo-elementos, animações) 🎨  
+- Python + Análise de Dados 🧠 
 - Boas práticas de arquitetura 📐  
 
 ---
