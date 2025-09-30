@@ -1,7 +1,7 @@
 # 👋 Hello World, eu sou o Gustavo!
 
 🎓  Formado em **Análise e Desenvolvimento de Sistemas**, focado em **backend**  
-💻 Curto desenvolver soluções práticas e sempre tô buscando aprender mais sobre **Node.js, Java, SQL e React**  
+💻 Curto desenvolver soluções práticas e sempre tô buscando aprender mais sobre **tecnologias novas e inovações**  
 🚀 Atualmente mergulhando em **Spring Boot, Inteligência Artificial e Análise de Dados**
 
 ---
